@@ -1,5 +1,7 @@
 # F-03-ID-1110
-This repo is a project of group F-03 for ID1110 course.
+This repo is a project of group F-03 for ID1110 course. This project is a Wordle clone with some additional features such as help menu.
+
+Original game : https://www.nytimes.com/games/wordle/index.html
 
 Wordle is a web-based word game created and developed by Welsh software engineer Josh Wardle.
 It was bought by the New York Times Company in 2022, who has since maintained and published it.
