@@ -7,7 +7,7 @@ Wordle is a web-based word game created and developed by Welsh software engineer
 It was bought by the New York Times Company in 2022, who has since maintained and published it.
 Players have six attempts to guess a five-letter word, with feedback given for each guess in the form of colored tiles indicating when letters match or occupy the correct position.
 
-TEAM: 
+# TEAM: 
 
 M Rajkumar Naik (team lead,keyboard module,words list,file handling)
 
@@ -15,6 +15,7 @@ T Tanishk Dharanidhar (main game logic,additional features code)
       
 Chandu Chundi (documentation of project , project report, instructions and description of the game)
 
-NOTE: The files 'main_code_logic.py', 'words.txt' and 'random_word_hint.txt' have to be in the same folder for the code to work.
+# NOTE: 
+The files 'main_code_logic.py', 'words.txt' and 'random_word_hint.txt' have to be in the same folder for the code to work.
 
 This code requires the user to download the 'colorama' library. This can be done by running the command 'pip install colorama' in Command Prompt(Windows) or Terminal(Linux).
