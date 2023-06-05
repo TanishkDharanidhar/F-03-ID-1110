@@ -9,8 +9,12 @@ Players have six attempts to guess a five-letter word, with feedback given for e
 
 TEAM: 
 
-Rajkumar (team lead,keyboard module,words list,file handling)
+M Rajkumar Naik (team lead,keyboard module,words list,file handling)
 
-Tanishk (main game logic,additional features code)
+T Tanishk Dharanidhar (main game logic,additional features code)
       
 Chandu Chundi (documentation of project , project report, instructions and description of the game)
+
+NOTE: The files 'main_code_logic.py', 'words.txt' and 'random_word_hint.txt' have to be in the same folder for the code to work.
+
+This code requires the user to download the 'colorama' library. This can be done by running the command 'pip install colorama' in Command Prompt(Windows) or Terminal(Linux).
