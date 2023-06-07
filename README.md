@@ -9,9 +9,9 @@ Players have six attempts to guess a five-letter word, with feedback given for e
 
 # TEAM: 
 
-M Rajkumar Naik (team lead,keyboard module,words list,file handling)
+M Rajkumar Naik (keyboard module, words list, file handling)
 
-T Tanishk Dharanidhar (main game logic,additional features code)
+T Tanishk Dharanidhar (team lead, main game logic, additional features code)
       
 Chandu Chundi (documentation of project , project report, instructions and description of the game)
 
