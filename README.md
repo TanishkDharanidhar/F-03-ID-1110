@@ -9,11 +9,11 @@ Players have six attempts to guess a five-letter word, with feedback given for e
 
 # TEAM: 
 
-M Rajkumar Naik (keyboard module, words list, file handling)
+T Tanishk Dharanidhar (Team Lead, main game logic, additional features code)
 
-T Tanishk Dharanidhar (team lead, main game logic, additional features code)
-      
-Chandu Chundi (documentation of project , project report, instructions and description of the game)
+M Rajkumar Naik (keyboard module, words list, file handling)
+     
+Chandu Chundi (documentation of project , project report, instructions, description of the game, error handling)
 
 # NOTE: 
 The files 'main_code_logic.py', 'words.txt' and 'random_word_hint.txt' have to be in the same folder for the code to work.
