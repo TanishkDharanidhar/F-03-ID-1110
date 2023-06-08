@@ -11,7 +11,7 @@ Players have six attempts to guess a five-letter word, with feedback given for e
 
 T Tanishk Dharanidhar (Team Lead, main game logic, additional features code)
 
-M Rajkumar Naik (keyboard module, words list, file handling)
+M Rajkumar Naik (keyboard module, words list,testing and file handling)
      
 Chandu Chundi (documentation of project , project report, instructions, description of the game, error handling)
 
