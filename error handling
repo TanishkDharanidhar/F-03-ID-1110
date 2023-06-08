@@ -1,0 +1,18 @@
+def alphachecker(user_word):
+    user_word = user_word.lower()
+    alpha_count = 0
+
+    for i in user_word:
+        if i.isalpha():
+            alpha_count += 1
+
+    if alpha_count == len(user_word):
+        return True
+    else:
+        return False
+if alphachecker(user_word) == False:
+    print(f'{user_word} Word should contain only alphabets. Try again.')
+    continue
+if len(user_word) < 5:
+    print(f'{user_word} Please enter 5-letter word. Try again.')
+    continue
