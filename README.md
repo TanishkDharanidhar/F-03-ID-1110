@@ -13,7 +13,7 @@ T Tanishk Dharanidhar (Team lead, Main game logic, Additional features code)
 
 M Rajkumar Naik (Keyboard module, Words list,Testing and File handling)
      
-Chandu Chundi (Documentation of project , Project report, Instructions, Description of the game, Error handling)
+Chandu Chundi (Documentation of project , Project report, Instructions, Description of the game, error handling)
 
 # NOTE: 
 The files 'main_code_logic.py', 'words.txt' and 'random_word_hint.txt' have to be in the same folder for the code to work.
